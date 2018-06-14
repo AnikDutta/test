@@ -1,0 +1,6 @@
+CONFIG_FILE_NAME=aircraft.properties
+DAO_PROJECT_NAME=aircraft-dao
+MODEL_PROJECT_NAME=aircraft-model
+SERVICE_PROJECT_NAME=aircraft-service
+TARGET_ENV_CONTAINER=jetty
+eclipse.preferences.version=1

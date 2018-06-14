@@ -1,0 +1,13 @@
+aircraft-service.implementationRoute.log.message.key.1 = Received request for getAircrafts
+aircraft-service.implementationRoute.log.message.key.2 = Failed to fetch records
+aircraft-service.implementationRoute.log.message.key.3 = Data retrieved
+aircraft-service.implementationRoute.log.message.key.4 = Received request for postAircraft
+aircraft-service.implementationRoute.log.message.key.5 = Successfully created new resource
+aircraft-service.implementationRoute.log.message.key.6 = Received request for getAircraft
+aircraft-service.implementationRoute.log.message.key.7 = Failed to fetch record
+aircraft-service.implementationRoute.log.message.key.8 = Received request for putAircraft
+aircraft-service.implementationRoute.log.message.key.9 = Failed to update
+aircraft-service.implementationRoute.log.message.key.10 = Successfully updated
+aircraft-service.implementationRoute.log.message.key.11 = Received request for deleteAircraft
+aircraft-service.implementationRoute.log.message.key.12 = Failed to delete
+aircraft-service.implementationRoute.log.message.key.13 = Successfully deleted
